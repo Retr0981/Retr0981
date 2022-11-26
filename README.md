@@ -13,7 +13,7 @@ Familiar: with C++, Firebase, Jira, and Miro.
 
 * 🌍  I'm based in Ghana
 * 🖥️  See my portfolio at [MyPortfolio](http://akingsley.netlify.app)
-* ✉️  You can contact me at [kuamiklassic149@gmail.com](mailto:kuamiklassic149@gmail.com)
+* ✉️  You can contact me at [davidarmah991gmail.com](mailto:davidarmah991@gmail.com)
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on Interesting projects
 
