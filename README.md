@@ -12,7 +12,7 @@ Familiar: with C++, Firebase, Jira, and Miro.
 📞 +233-551-218-743 🌐 davidarmah991@gmail.com
 
 * 🌍  I'm based in Ghana
-* 🖥️  See my portfolio at [MyPortfolio](http://akingsley.netlify.app)
+* 🖥️  See my portfolio at [MyPortfolio](http://)
 * ✉️  You can contact me at [davidarmah991gmail.com](mailto:davidarmah991@gmail.com)
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on Interesting projects
