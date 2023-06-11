@@ -9,9 +9,9 @@ He loves to network and get to know many different people.
 He is passionate about computer science; he believes he can use his technical skills to impact this world significantly.
 Proficient: JavaScript, PHP, SQL, ReactJS, Redux, TailwindCSS, Bootstrap, HTML/CSS NodeJs, MongoDB, ExpressJs, Solidity, Rust, Ruby and Go
 Familiar: with C++, Firebase, Jira, and Miro. 
-📞 +233-551-218-743 🌐 davidarmah991@gmail.com
+📞 +44-758-881-16743 🌐 davidarmah991@gmail.com
 
-* 🌍  I'm based in Ghana
+* 🌍  I'm based in United Kingdom
 * 🖥️  See my portfolio at [MyPortfolio](http://)
 * ✉️  You can contact me at [davidarmah991gmail.com](mailto:davidarmah991@gmail.com)
 * 🧠  I'm learning React Native
