@@ -13,7 +13,7 @@ Familiar: with C++, Firebase, Jira, and Miro.
 
 * 🌍  I'm based in United Kingdom
 * 🖥️  See my portfolio at [MyPortfolio](http://)
-* ✉️  You can contact me at [davidarmah991gmail.com](mailto:davidarmah991@gmail.com)
+* ✉️  You can contact me at <a href="https://t.me/davearm991">DNAworks</a>
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on Interesting projects
 
