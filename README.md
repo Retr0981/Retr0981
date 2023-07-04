@@ -12,7 +12,7 @@ Familiar: with C++, Firebase, Jira, and Miro.
 📞 +44-75-881-16743 🌐 davidarmah2022@gmail.com
 
 * 🌍  I'm based in United Kingdom
-* 🖥️  See my portfolio at [MyPortfolio](http://)
+* 🖥️  See my portfolio at [MyPortfolio](https://davidarmah.vercel.app/)
 * ✉️  You can contact me at <a href="https://t.me/davearm991">DNAworks</a>
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on Interesting projects
