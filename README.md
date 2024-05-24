@@ -4,12 +4,11 @@ Hi 👋 My name is David
 A Software Engineer
 -------------------
 
-David Nii Armah is a  software engineer with in-depth knowledge of various technologies and tools. He is looking for opportunities in Software Engineering with a preference for Frontend development, Backend development or Full-stack development.
+David Nii Armah is a  software engineer with in-depth knowledge of various technologies and tools. He is looking for opportunities in Software Engineering with a preference for  Full-stack development.
 He loves to network and get to know many different people. 
 He is passionate about computer science; he believes he can use his technical skills to impact this world significantly.
-Proficient: JavaScript, SQL, ReactJS, Redux, TailwindCSS, HTML/CSS NodeJs, MongoDB, ExpressJs, Solidity, Rust, Ruby and Go
-Familiar: with C++, Firebase. 
-📞 +44-75-881-16743 🌐 davidarmah2022@gmail.com
+Proficient: JavaScript, SQL, ReactJS, Redux, TailwindCSS, HTML/CSS NodeJs, MongoDB, ExpressJs, Solidity, Excel, SQL, Tableau, Python, Pandas, Power BI
+📞 +44-75-881-16743 🌐 davidarmah991@gmail.com
 
 * 🌍  I'm based in the United Kingdom
 * 🖥️  See my portfolio at [MyPortfolio](https://davidarmah.vercel.app/)
