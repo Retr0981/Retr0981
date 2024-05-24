@@ -9,6 +9,7 @@ He loves to network and get to know many different people.
 He is passionate about computer science; he believes he can use his technical skills to impact this world significantly.
 
 Proficient: JavaScript, SQL, ReactJS, Redux, TailwindCSS, HTML/CSS NodeJs, MongoDB, ExpressJs, Solidity, Excel, SQL, Tableau, Python, Pandas, Power BI
+
 📞 +44-75-881-16743 🌐 davidarmah991@gmail.com
 
 * 🌍  I'm based in the United Kingdom
