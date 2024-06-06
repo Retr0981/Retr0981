@@ -4,7 +4,7 @@ Hi 👋 My name is David
 A Software Engineer & Data Analyst 
 -------------------
 
-David Nii Armah is a  software engineer with in-depth knowledge of various technologies and tools. He is looking for opportunities in Software Engineering with a preference for  Full-stack development.
+David Nii Armah is a  software engineer/data analyst  with in-depth knowledge of various technologies and tools. He is looking for opportunities in Software Engineering/Data analysis with a preference for  Full-stack development.
 He loves to network and get to know many different people. 
 He is passionate about computer science; he believes he can use his technical skills to impact this world significantly.
 
