@@ -56,7 +56,7 @@ Hi! I'm David, a Software Engineer and Data Analyst with a deep passion for tech
 - 👨🏻‍💻 I’m currently learning React Native and exploring new technologies;
 - 🚀 I’m working on various data analysis and software development projects;
 - 💬 Ask me about anything related to software engineering or data analysis;
-- 📝 I regularly write articles on [blog.davidarmah.com](https://davidarmah.vercel.app/blog);
+- 📝 I regularly write articles on [blog.davidarmah.com](https://medium.com/@davidarmah2022);
 - 📫 How to reach me: [davidarmah991@gmail.com](mailto:davidarmah991@gmail.com);
 - 📝 [Resume](https://davidarmah.vercel.app/resume).
 
