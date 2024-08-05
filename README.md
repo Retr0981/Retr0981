@@ -4,7 +4,7 @@ Hi 👋 My name is David
 ### A Software Developer & Data Analyst 
 -------------------
 
-David Nii Armah is a software engineer/data analyst with in-depth knowledge of various technologies and tools. He is looking for opportunities in Software Developer/Data analysis. He loves to network and get to know many different people. He is passionate about computer science and believes he can use his technical skills to impact this world significantly.
+David Nii Armah is a software devloper/data analyst with in-depth knowledge of various technologies and tools. He is looking for opportunities in software development/data analysis. He loves to network and get to know many different people. He is passionate about computer science and believes he can use his technical skills to impact this world significantly.
 
 - 🌍  I'm based in the United Kingdom
 - 🖥️  See my portfolio at [MyPortfolio](https://davidarmah.vercel.app/)
