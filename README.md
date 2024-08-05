@@ -1,144 +1,68 @@
-![MasterHead](https://img.freepik.com/free-vector/gradient-cyber-attack-illustration_23-2149231536.jpg)
+### Hi there, I'm [David Nii Armah](https://davidarmah.vercel.app)
 
-<h1 align="center">Hi 👋, I'm David Nii Armah</h1>
-<h3 align="center">A Software Engineer & Data Analyst from the United Kingdom</h3>
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dna991/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/dave_arm991)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/davidarmah992/)
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/4kEqvnsI8wkKAs2oz7/giphy.gif">
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=davidarmah.davidarmah)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=retr0981&label=Profile%20views&color=0e75b6&style=flat" alt="retr0981" /> </p>
+Hi! I'm David, a Software Engineer and Data Analyst with a deep passion for technology and data. I'm always eager to connect and collaborate on interesting projects. When I'm not coding or analyzing data, I enjoy exploring new technologies and learning new skills.
 
-- 🔭 I’m currently working on **React Native Projects**
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3o6ZsV8k0Rl38Tqlis/giphy.gif" width="400" height="300" />
 
-- 🌍 I'm based in the **United Kingdom**
+### Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white)
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![GoogleDataStudio](https://img.shields.io/badge/LookerStudio-4F5B93?style=for-the-badge&logo=google&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-- 🖥️ See my portfolio at [MyPortfolio](https://davidarmah.vercel.app/)
+**Talking about Personal Stuffs:**
 
-- ✉️ You can contact me at [DNAworks](https://t.me/davearm991)
+- 👨🏻‍💻 I’m currently learning React Native;
+- 🚀 I’m exploring new technologies and collaborating on interesting projects;
+- 💬 Ask me about anything related to software engineering or data analysis;
+- 📫 How to reach me: [davidarmah991@gmail.com](mailto:davidarmah991@gmail.com);
+- 📝 See my portfolio: [MyPortfolio](https://davidarmah.vercel.app/).
 
-- 📫 How to reach me **davidarmah991@gmail.com**
+</br>
 
-- 🧠 I’m currently learning **React Native**
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
 
-- 🤝 I’m open to collaborating on **Interesting projects**
+📈 **My GitHub Stats:**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://web.facebook.com/davidarmah992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="David Armah" height="30" width="40" /></a>
-<a href="https://github.com/Retr0981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="David Armah" height="30" width="40" /></a>
-<a href="https://www.instagram.com/davidarmah992/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="David Armah" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/dna991/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="David Armah" height="30" width="40" /></a>
-<a href="https://twitter.com/dave_arm991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="David Armah" height="30" width="40" /></a>
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Retr0981&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&text_color=ffffff&icon_color=0891b2&title_color=0891b2" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0981&exclude_repo=K&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20Languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="tableau" width="40" height="40"/> 
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg/1024px-Microsoft_Office_Excel_%282018%E2%80%93present%29.svg.png" alt="excel" width="40" height="40"/> 
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> 
-  </a>
-  <a href="https://developers.google.com/analytics/devguides/reporting/datastudio/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Google_Data_Studio_logo.png" alt="datastudio" width="40" height="40"/> 
-  </a>
-  <a href="https://www.soliditylang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> 
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg"
-    alt="reactnative" width="40" height="40"/> 
-  </a>
-</p>
-
----
-
-<h3 align="left">GitHub Stats:</h3>
-
-<p align="left">
-<a href="http://www.github.com/Retr0981">
-  <img src="https://github-readme-stats.vercel.app/api?username=Retr0981&show_icons=true&hide_title=true&count_private=true&hide=prs&bg_color=0D1117&text_color=ffffff&icon_color=0891b2&title_color=0891b2&hide_border=true" alt="David Armah's GitHub stats" />
-</a>
-</p>
-
-<p align="left">
-<a href="http://www.github.com/Retr0981">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Retr0981&stroke=ffffff&background=0D1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="David Armah's GitHub streak stats" />
-</a>
-</p>
-
-<p align="left">
-<a href="http://www.github.com/Retr0981">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Retr0981&bg_color=0D1117&color=ffffff&line=0891b2&point=ffffff&area_color=0D1117&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="David Armah's GitHub commits graph" />
-</a>
-</p>
-
-<p align="left">
-<a href="https://github.com/Retr0981">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0981&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
+<p>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Retr0981&stroke=ffffff&background=0D1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=Retr0981&bg_color=0D1117&color=ffffff&line=0891b2&point=ffffff&area_color=0D1117&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" />
 </p>
 
 ---
 
 <h3 align="left">Profile Views:</h3>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=retr0981&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
----
-
-<h3 align="left">Contact Me:</h3>
-<p align="left">
-📞 +44-75-881-16743<br/>
-🌐 [davidarmah991@gmail.com](mailto:davidarmah991@gmail.com)
+  <img src="https://komarev.com/ghpvc/?username=Retr0981&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
