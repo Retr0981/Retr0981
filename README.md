@@ -12,9 +12,9 @@ David Nii Armah is a software engineer/data analyst with in-depth knowledge of v
 - 🧠  I'm learning React Native
 - 🤝  I'm open to collaborating on interesting projects
 
-### Skills
--------------------
+---
 
+### Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=amazon-rds&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -32,8 +32,9 @@ David Nii Armah is a software engineer/data analyst with in-depth knowledge of v
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Google Data Studio](https://img.shields.io/badge/Google_Data_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
+---
+
 ### Socials
--------------------
 
 <p align="left">
 <a href="https://web.facebook.com/davidarmah992" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
@@ -43,8 +44,9 @@ David Nii Armah is a software engineer/data analyst with in-depth knowledge of v
 <a href="https://twitter.com/dave_arm991" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
+---
+
 ### Badges
--------------------
 
 <b>My GitHub Stats</b>
 
@@ -53,13 +55,19 @@ David Nii Armah is a software engineer/data analyst with in-depth knowledge of v
 </p>
 
 <p align="left">
-<a href="http://www.github.com/Retr0981"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Retr0981&stroke=ffffff&background=0D1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Retr0981"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Retr0981&stroke=ffffff&background=0D1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="David Armah's GitHub streak stats" /></a>
 </p>
 
 <p align="left">
-<a href="http://www.github.com/Retr0981"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Retr0981&bg_color=0D1117&color=ffffff&line=0891b2&point=ffffff&area_color=0D1117&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Retr0981"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Retr0981&bg_color=0D1117&color=ffffff&line=0891b2&point=ffffff&area_color=0D1117&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="David Armah's GitHub commits graph" /></a>
 </p>
 
 <p align="left">
 <a href="https://github.com/Retr0981"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0981&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 </p>
+
+---
+
+### Contact
+📞 +44-75-881-16743  
+🌐 davidarmah991@gmail.com
