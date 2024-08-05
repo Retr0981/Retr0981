@@ -8,7 +8,7 @@
 
 Hi! I'm David, a Software Engineer and Data Analyst with a deep passion for technology and data. I'm always eager to connect and collaborate on interesting projects. When I'm not coding or analyzing data, I enjoy exploring new technologies and learning new skills.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3o6ZsV8k0Rl38Tqlis/giphy.gif" width="400" height="300" />
+<img align="right" alt="GIF" src="https://github.com/Retr0981/Retr0981/blob/main/coding.gif" width="400" height="300" />
 
 ### Tech Stack
 
