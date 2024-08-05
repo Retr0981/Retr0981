@@ -1,10 +1,10 @@
 Hi 👋 My name is David
 =========================
 
-### A Software Developer & Data Analyst 
+### A Software Engineer & Data Analyst 
 -------------------
 
-David Nii Armah is a software devloper/data analyst with in-depth knowledge of various technologies and tools. He is looking for opportunities in software development/data analysis. He loves to network and get to know many different people. He is passionate about computer science and believes he can use his technical skills to impact this world significantly.
+David Nii Armah is a software engineer/data analyst with in-depth knowledge of various technologies and tools. He is looking for opportunities in Software Engineering/Data analysis. He loves to network and get to know many different people. He is passionate about computer science and believes he can use his technical skills to impact this world significantly.
 
 - 🌍  I'm based in the United Kingdom
 - 🖥️  See my portfolio at [MyPortfolio](https://davidarmah.vercel.app/)
@@ -50,7 +50,16 @@ David Nii Armah is a software devloper/data analyst with in-depth knowledge of v
 
 <p align="left">
 <a href="http://www.github.com/Retr0981"><img src="https://github-readme-stats.vercel.app/api?username=Retr0981&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&hide_border=true&show_icons=true" alt="David Armah's GitHub stats" /></a>
+</p>
+
+<p align="left">
 <a href="http://www.github.com/Retr0981"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Retr0981&stroke=ffffff&background=0D1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</p>
+
+<p align="left">
 <a href="http://www.github.com/Retr0981"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Retr0981&bg_color=0D1117&color=ffffff&line=0891b2&point=ffffff&area_color=0D1117&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+</p>
+
+<p align="left">
 <a href="https://github.com/Retr0981"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0981&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 </p>
