@@ -78,5 +78,4 @@ Hi! I'm David, a Software Engineer and Data Analyst with a deep passion for tech
 
 <p>
   <img height="300em" width="600em" src="https://github-readme-streak-stats.herokuapp.com/?user=Retr0981&stroke=ffffff&background=0D1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-  <img height="300em" width="600em" src="https://activity-graph.herokuapp.com/graph?username=Retr0981&bg_color=0D1117&color=ffffff&line=0891b2&point=ffffff&area_color=0D1117&hide_border=true" />
 </p>
