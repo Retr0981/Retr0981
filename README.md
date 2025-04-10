@@ -4,8 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/dave_arm991)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/davidarmah992/)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=davidarmah.davidarmah)
-
+### Glad to see you here! 
 Hi! I'm David, a Software Engineer and Data Analyst with a deep passion for technology and data. I'm always eager to connect and collaborate on interesting projects. When I'm not coding or analyzing data, I enjoy exploring new technologies and learning new skills.
 
 <img align="right" alt="GIF" src="https://github.com/Retr0981/Retr0981/blob/main/coding.gif" width="400" height="300" />
