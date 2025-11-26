@@ -77,3 +77,5 @@ Hi! I'm David, a Software Engineer and Data Analyst with a deep passion for tech
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in  ) -->
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/retr0981?cardType=level-alternate&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
