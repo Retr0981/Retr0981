@@ -69,4 +69,4 @@ Hi! I'm David, a Software Engineer and Data Analyst with a deep passion for tech
 
 📈 **My GitHub Stats:**
 ![David Armah's GitHub stats](https://github-readme-stats.vercel.app/api?username=retr0981&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Retr0981&langs_count=10&bg_color=0D1117&text_color=ffffff&icon_color=0891b2&title_color=0891b2&hide_border=true&custom_title=Top%20Languages)
+
