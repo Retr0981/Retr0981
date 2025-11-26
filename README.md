@@ -58,7 +58,6 @@ Hi! I'm David, a Software Engineer and Data Analyst with a deep passion for tech
 - 📫 How to reach me: [davidarmah991@gmail.com](mailto:davidarmah991@gmail.com);
 - 📝 [Resume](https://davidarmah.vercel.app/resume).
 
-&lt;/br&gt;
 
 ## 🔧 Technologies & Tools
 
