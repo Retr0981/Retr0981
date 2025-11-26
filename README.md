@@ -66,9 +66,14 @@ Hi! I'm David, a Software Engineer and Data Analyst with a deep passion for tech
 ![Editor](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=2bbc8a)
 ![Shell](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
-📈 **My GitHub Stats:**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Retr0981&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&text_color=ffffff&icon_color=0891b2&title_color=0891b2)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=retr0981&theme=dark&hide_border=false&include_all_commits=false&count_private=false )<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=retr0981&theme=dark&hide_border=false )<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=retr0981&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact )
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Retr0981&langs_count=10&bg_color=0D1117&text_color=ffffff&icon_color=0891b2&title_color=0891b2&hide_border=true&custom_title=Top%20Languages)
+---
+[![](https://visitcount.itsvg.in/api?id=retr0981&icon=0&color=0 )](https://visitcount.itsvg.in )
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in  ) -->
 
