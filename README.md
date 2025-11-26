@@ -69,7 +69,4 @@ Hi! I'm David, a Software Engineer and Data Analyst with a deep passion for tech
 ![Shell](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 📈 **My GitHub Stats:**
-&lt;p&gt;
-  &lt;img height="300em" width="600em" src="https://github-readme-stats.vercel.app/api?username=davidarmah991&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&text_color=ffffff&icon_color=0891b2&title_color=0891b2" /&gt;
-  &lt;img height="300em" width="600em" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidarmah991&exclude_repo=K&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20Languages" /&gt;
-&lt;/p&gt;
+
